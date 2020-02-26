@@ -1,0 +1,2 @@
+public class WallAre15 {
+}
